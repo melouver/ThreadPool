@@ -1,6 +1,9 @@
 ThreadPool
 ==========
 
+*Forked version*
+I want to improve this adding new features ,of course!
+
 A simple C++11 Thread Pool implementation.
 
 Basic usage:
